@@ -1,0 +1,9 @@
+package main
+
+import "fmt"
+import "math"
+import "math/rand"
+
+func main() {
+	fmt.Println("Hello, Arch!")
+}
